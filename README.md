@@ -1,16 +1,11 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
 ### Getting Started
 
-There are two methods for getting started with this repo.
+A simple react city weather search app combined with redux. This app can be used to search city's temperature, pressure and humidity.
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
-clone this repo
+clone this repo, and enter this folder
 ```
-> cd ReduxSimpleStarter
 > npm install
 > npm start
 ```
